@@ -1,7 +1,7 @@
 # 存取cookie和读取cookie
 
 效果如下：
-hgfhgh
+
 ![](gif.gif)
 
 demo code:
