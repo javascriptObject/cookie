@@ -1,6 +1,6 @@
 # 存取cookie和读取cookie
 
-效果如下：
+效果如下：fdfdsf
 
 ![](gif.gif)
 
